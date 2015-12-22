@@ -1,8 +1,9 @@
 import React from 'react';
+import RaisedButton from 'material-ui/lib/raised-button';
  
 class World extends React.Component {
   render() {
-      return <h1>World</h1>
+      return <RaisedButton secondary={true} label="World" />
     }
 }
 

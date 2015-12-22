@@ -1,8 +1,12 @@
 import React from 'react';
+import World from './world.jsx'
+import AppBar from 'material-ui/lib/app-bar'
  
 class Hello extends React.Component {
   render() {
-      return <h1>Hello</h1>
+      return <AppBar title="hello"
+      	iconElementRight={<World />}
+       />
     }
 }
 
