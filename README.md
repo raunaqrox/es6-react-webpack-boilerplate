@@ -8,6 +8,7 @@
 
 ## Install
 `git clone https://github.com/raunaqrox/es6-react-webpack-boilerplate.git`
+
 `npm i`
 
 ## Future features
