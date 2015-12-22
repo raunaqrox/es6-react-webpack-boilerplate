@@ -9,7 +9,11 @@
 ## Install
 `git clone https://github.com/raunaqrox/es6-react-webpack-boilerplate.git`
 
-`npm i`
+`npm install`
+
+you will need webpack
+
+`npm install -g webpack`
 
 ## Future features
  - react hot loading
